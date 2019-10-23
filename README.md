@@ -5,6 +5,7 @@ Nedelcu Horia
 Group 311CA
 
 Homework3 - ElfUnknown's - Glacierfight:
+   
    Elf-Players were organized as a vector of structures, while
 the map of the game was kept with a matrix of structures with related
 information. Players have their coordinates, but the map also stores
